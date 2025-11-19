@@ -1,6 +1,5 @@
 layout: {dts_layout: totem.dtsi}
 
-
 layers:
   Default:
   - Q
