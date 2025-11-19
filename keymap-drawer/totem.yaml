@@ -1,4 +1,4 @@
-layout: {zmk_keyboard: totem, dts_layout: totem.dtsi}
+layout: {dts_layout: totem.dtsi}
 layers:
   Base:
   - Q
