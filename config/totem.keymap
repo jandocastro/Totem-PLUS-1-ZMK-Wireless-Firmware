@@ -50,6 +50,7 @@
 
             quick-tap-ms = <150>;
             require-prior-idle-ms = <175>;
+            hold-trigger-on-release;
         };
 
         fsu: flip_shift_underscore {
