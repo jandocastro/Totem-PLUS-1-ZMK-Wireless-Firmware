@@ -277,8 +277,8 @@
             label = "Sym";
             bindings = <
            &kp EXCL        &kp AT            &kp HASH          &kp DOLLAR         &kp PERCENT      &kp CARET  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans
-&kp TILDE  &kp LS(LC(L))   &kp LS(LC(W))     &trans            &trans             &trans           &trans     &trans         &trans        &trans                &kp EQUAL              &trans
-&trans     &kp LS(LA(UP))  &kp LS(LA(DOWN))  &kp LS(LA(LEFT))  &kp LS(LA(RIGHT))  &kp LS(LA(B))    &trans     &trans         &trans        &trans                &trans                 &trans
+&trans     &kp LS(LC(L))   &kp LS(LC(W))     &trans            &trans             &trans           &trans     &trans         &trans        &trans                &kp EQUAL              &trans
+&kp TILDE  &kp LS(LA(UP))  &kp LS(LA(DOWN))  &kp LS(LA(LEFT))  &kp LS(LA(RIGHT))  &kp LS(LA(B))    &trans     &trans         &trans        &trans                &trans                 &trans
                                              &trans            &trans             &trans           &trans     &trans         &trans
             >;
         };
