@@ -48,7 +48,7 @@
             bindings = <&kp>, <&kp>;
 
             quick-tap-ms = <150>;
-            require-prior-idle-ms = <175>;
+            require-prior-idle-ms = <200>;
         };
 
         fsu: flip_shift_underscore {
